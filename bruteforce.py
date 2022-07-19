@@ -2,7 +2,7 @@
 import os
 os.system("apt-get install figlet")
 os.system("clear")
-os.system("FIGLET BRUTE FORCE")
+os.system("figlet BRUTE FORCE")
 print("""
 WELCOME THE BRUTE FORCE TOOL
 1)FTP
